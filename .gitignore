@@ -1,0 +1,4 @@
+.env
+api_secrets.txt
+# Ignore api_secrets.txt file
+# Ignore environment variable files
