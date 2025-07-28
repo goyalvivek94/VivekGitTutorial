@@ -1,2 +1,10 @@
+
 Hey, I am not ingesting the data in this file. (bug_fix2)
 Master here baby, let me also contribute to the project
+
+Hey, I am ingesting the data in this file.
+Master here baby, let me also contribute to the project
+
+Hehe, I am learning Git
+add a line of code to fix the bug
+
